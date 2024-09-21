@@ -68,18 +68,10 @@ This project aims to predict movie ratings based on features like genre, directo
 
 ---
 
-### Dataset
-All dataset is available on [Kaggle](https://www.kaggle.com/c/titanic).
-
----
-
 ## Titanic Survival Prediction
 
 ### Overview
 This classic beginner project utilizes the Titanic dataset to build a model that predicts whether a passenger survived the disaster. The dataset contains information about passengers, such as their age, gender, ticket class, fare, cabin, and survival status.
-
-### Dataset
-The Titanic dataset is available on [Kaggle](https://www.kaggle.com/c/titanic).
 
 ---
 
